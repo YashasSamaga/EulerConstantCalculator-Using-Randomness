@@ -1,5 +1,5 @@
 # EulerConstantCalculator-Using-Randomness
-This program uses probablity to approximately calculate the value of euler constant.
+This program uses probability to approximately calculate the value of euler constant.
 
 ### Program 1 (using probability)
 This program creates a sample of `n` whole numbers in arithmetic progression with common difference of one. The sample is shuffled `trials` times. The program counts the number of shffules that produce derangements. The probability of a shuffle producing a derangement is `1/e` as the sample size and number of trials approach infinity.
